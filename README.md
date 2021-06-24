@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Site Link](https://skanthanvijay.github.io/Frontend-Mentor-3-column-preview-card/)
 
 ## My process
 
