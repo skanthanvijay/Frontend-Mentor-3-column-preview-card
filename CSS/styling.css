@@ -1,0 +1,102 @@
+/* CSS Element Edits */
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display',sans-serif;
+  font-weight: 700;
+  color: #f2f2f2;
+  line-height: 2.4;
+}
+
+p {
+  color: #ebebeb;
+  color: hsla(0, 0%, 100%, 0.75);
+  padding-bottom: 50px;
+  padding-right: 12%;
+}
+
+
+/* Custom Global Classes */
+
+.card-button {
+  background-color: #f2f2f2;
+  padding: 15px 20px;
+  border-radius: 28px;
+}
+
+.card-button:hover {
+  background-color: #f2f2f2;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  border-color: white;
+  border-width: 3px;
+  padding: 13px 18px;
+}
+
+.column {
+  padding: 14% 12%;
+}
+
+.main-container {
+  padding: 10%;
+}
+
+
+/* Bootstrap Class Edits */
+
+.row {
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+
+/* Sedan Section */
+
+.sedan {
+  background-color: #e38826;
+}
+
+.sedan button {
+  color: #e38826;
+}
+
+
+/* SUV Section */
+
+.suv {
+  background-color: #006970;
+}
+
+.suv button {
+  color: #006970;
+}
+
+
+/* Luxury Section */
+
+.luxury {
+  background-color: #004241;
+}
+
+.luxury button {
+  color: #004241;
+}
+
+
+
+/* Media Query for Desktop */
+
+@media (min-width: 576px) {
+
+  p {
+    padding-right: 8%;
+  }
+
+  .column {
+    padding: 5%;
+  }
+
+}
